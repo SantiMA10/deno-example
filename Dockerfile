@@ -12,6 +12,6 @@ ENV PORT="1234"
 WORKDIR /usr/src/app
 COPY . .
 
-RUN deno cache server.ts
+RUN deno cache --reload https://raw.githubusercontent.com/SantiMA10/deno-example/master/server.ts 
 
-CMD ["deno", "run", "--allow-env", "--allow-net", "server.ts"]
+CMD ["deno", "run", "--allow-env", "--allow-net", "https://raw.githubusercontent.com/SantiMA10/deno-example/master/server.ts"]

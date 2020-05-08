@@ -1,0 +1,22 @@
+{
+  "https://deno.land/std/path/win32.ts": "54cfb9c32438d4a43665cc2a121cf958ec8a3579f1d00ab17949a672c7f8b447",
+  "https://deno.land/std/path/mod.ts": "44dc5852b8991c6c5c8ab4a2359a95f34af71da736489dbe27263a52367757ea",
+  "https://deno.land/std/io/util.ts": "23c3953522d998d48a127ee07a7b7379b9573342b3c354d7913f9eaa8a7023a1",
+  "https://deno.land/std/io/bufio.ts": "d5f99c76644c5d490a8ce7b07f6fe2d9fca0e9523d59f60407e09fca7c6ce3a8",
+  "https://deno.land/std/testing/asserts.ts": "de8e56f36dd2e6305a281d05ca00cd37605d5aa187caf9e4bdca27064a8d687e",
+  "https://deno.land/std/path/constants.ts": "8cba719ca4f759dee71380009370bdc72c36082d6dc785ff36e74ba16519e7e4",
+  "https://deno.land/std/http/http_status.ts": "13b35951d8a48de4c08e890a05a07e3e94c71b4116259fbdb41030b14d027776",
+  "https://deno.land/std/fmt/colors.ts": "52a9d836d0e49b05253330a6fc762b4e070b8a9f60cd6b3bc3e1f996f431d325",
+  "https://deno.land/std/testing/diff.ts": "19c6766a2d03d507dcd9b38f27a134fe7df4e9abac08a51a8d9a826901de6dbf",
+  "https://deno.land/std/bytes/mod.ts": "b16bdfec58b37b5987731e187fe8f4de90efc7cba327d6718a0301ac4c2fcb4d",
+  "https://deno.land/std/http/io.ts": "da3ba7744dc765783ec06d915427f60d1a4b63432eb85951973701968a7e9d77",
+  "https://deno.land/std/path/posix.ts": "c94ea7591108f0b6e4c1e134fcfede1c4180a208a3025875b7da845d957c7cb5",
+  "https://deno.land/std/path/common.ts": "19bbfd57c01f762dee933f41225e79d18174fd283a4286151f3d3af34a2820b2",
+  "https://deno.land/std/path/glob.ts": "1a41879744f27544d8e869808a85369639bfade4321608d2ae9c79bac84c6bc9",
+  "https://deno.land/std/path/utils.ts": "11e35a8c5e4d08e9610006570f542bf09ad43852d9490ed4bd3791382a4f2765",
+  "https://deno.land/std/encoding/utf8.ts": "52c03184938bae787120a0dfadffb53945275f06f79ece9e824561f32c84f2f9",
+  "https://deno.land/std/util/async.ts": "61e63f2653111c7158aa73968f1f65924e518f0de4e1035fd09ca0e809d9c471",
+  "https://deno.land/std/textproto/mod.ts": "39eeed4f2ac949690318fef71c7c9f724e78e8c51a9c3071eedc2a9b951291b3",
+  "https://deno.land/std/path/globrex.ts": "57c2f5f4885243173b593ea73e262570a9d8b0b343bd77ad82d77b428149fd10",
+  "https://deno.land/std/http/server.ts": "441fc2e544238ca73e78fa0ba2b49ef41f372fd309fc0afd2bec94f926b3b3db"
+}
