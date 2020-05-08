@@ -14,4 +14,4 @@ COPY . .
 
 RUN deno cache --reload https://raw.githubusercontent.com/SantiMA10/deno-example/master/server.ts 
 
-CMD ["deno", "run", "--allow-env", "--allow-net", "https://raw.githubusercontent.com/SantiMA10/deno-example/master/server.ts"]
+CMD ["deno", "run", "--allow-env", "--allow-net", "--reload=https://raw.githubusercontent.com/SantiMA10", "https://raw.githubusercontent.com/SantiMA10/deno-example/master/server.ts"]
