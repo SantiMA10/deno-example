@@ -13,5 +13,5 @@ curl -fsSL https://deno.land/x/install/install.sh | sh
 ### Run it with deno
 
 ```bash
-deno run --allow-net --allow-end server.ts
+deno run --allow-net --allow-env server.ts
 ```
